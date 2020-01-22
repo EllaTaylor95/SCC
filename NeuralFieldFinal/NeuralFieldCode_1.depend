@@ -1,0 +1,599 @@
+# depslib dependency file v1.0
+1515362096 source:c:\users\et137\onedrive\desktop\templates\q3\abstractodesolver.cpp
+	<cassert>
+	<fstream>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<string>
+	<cmath>
+	"AbstractODESolver.hpp"
+
+1515349608 c:\users\et137\onedrive\desktop\templates\q3\abstractodesolver.hpp
+	"ODEInterface.hpp"
+	"Vector.hpp"
+	<iostream>
+
+1515330008 c:\users\et137\onedrive\desktop\templates\q3\odeinterface.hpp
+	"Vector.hpp"
+
+1445966862 c:\users\et137\onedrive\desktop\templates\q3\vector.hpp
+	<iostream>
+
+1515355640 source:c:\users\et137\onedrive\desktop\templates\q3\driver.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+	"Vector.hpp"
+	"ODEInterface.hpp"
+	"AbstractODESolver.hpp"
+	"RungeKutta4Solver.hpp"
+	"NeuralField1D.hpp"
+
+1515351766 c:\users\et137\onedrive\desktop\templates\q3\rungekutta4solver.hpp
+	"AbstractODESolver.hpp"
+	"Vector.hpp"
+	"ODEInterface.hpp"
+
+1515272742 c:\users\et137\onedrive\desktop\templates\q3\neuralfield1d.hpp
+	"AbstractODESolver.hpp"
+	"ODEInterface.hpp"
+	"Vector.hpp"
+
+1515358844 source:c:\users\et137\onedrive\desktop\templates\q3\neuralfield1d.cpp
+	<iostream>
+	<cmath>
+	"NeuralField1D.hpp"
+
+1515329994 source:c:\users\et137\onedrive\desktop\templates\q3\odeinterface.cpp
+	"ODEInterface.hpp"
+	"Vector.hpp"
+
+1445966862 source:c:\users\et137\onedrive\desktop\templates\q3\vector.cpp
+	<cmath>
+	<cassert>
+	<iomanip>
+	"Vector.hpp"
+
+1531920488 source:c:\users\et137\onedrive\desktop\msc project\templates\q3\driver.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+	"Vector.hpp"
+	"ODEInterface.hpp"
+	"AbstractODESolver.hpp"
+	"RungeKutta4Solver.hpp"
+	"NeuralField1D.hpp"
+
+1445966862 c:\users\et137\onedrive\desktop\msc project\templates\q3\vector.hpp
+	<iostream>
+
+1531669031 c:\users\et137\onedrive\desktop\msc project\templates\q3\odeinterface.hpp
+	"Vector.hpp"
+
+1532360121 c:\users\et137\onedrive\desktop\msc project\templates\q3\abstractodesolver.hpp
+	"ODEInterface.hpp"
+	"Vector.hpp"
+	<iostream>
+
+1531920488 c:\users\et137\onedrive\desktop\msc project\templates\q3\rungekutta4solver.hpp
+	"AbstractODESolver.hpp"
+	"Vector.hpp"
+	"ODEInterface.hpp"
+
+1531760268 c:\users\et137\onedrive\desktop\msc project\templates\q3\neuralfield1d.hpp
+	"AbstractODESolver.hpp"
+	"ODEInterface.hpp"
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+	"Trapezium.hpp"
+
+1533149978 source:c:\users\et137\onedrive\desktop\msc project\templates\q3\neuralfield1d.cpp
+	<iostream>
+	<cmath>
+	"NeuralField1D.hpp"
+
+1531669043 source:c:\users\et137\onedrive\desktop\msc project\templates\q3\odeinterface.cpp
+	"ODEInterface.hpp"
+	"Vector.hpp"
+
+1532996706 source:c:\users\et137\onedrive\desktop\msc project\templates\q3\rungekutta4solver.cpp
+	<iostream>
+	<assert.h>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	"RungeKutta4Solver.hpp"
+
+1445966862 source:c:\users\et137\onedrive\desktop\msc project\templates\q3\vector.cpp
+	<cmath>
+	<cassert>
+	<iomanip>
+	"Vector.hpp"
+
+1532996495 source:c:\users\et137\onedrive\desktop\msc project\templates\q3\abstractodesolver.cpp
+	<cassert>
+	<fstream>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<string>
+	<cmath>
+	"AbstractODESolver.hpp"
+
+1530794083 source:c:\users\et137\onedrive\desktop\msc project\templates\q3\abstractquadrature.cpp
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+
+1530794256 c:\users\et137\onedrive\desktop\msc project\templates\q3\abstractquadrature.hpp
+	"Vector.hpp"
+
+1530898237 source:c:\users\et137\onedrive\desktop\msc project\templates\q3\trapezium.cpp
+	<cassert>
+	<iostream>
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+	"Trapezium.hpp"
+
+1530898095 c:\users\et137\onedrive\desktop\msc project\templates\q3\trapezium.hpp
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+
+1532996495 source:c:\users\et137\dropbox\ellataylormsc\codes\templates\q3\abstractodesolver.cpp
+	<cassert>
+	<fstream>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<string>
+	<cmath>
+	"AbstractODESolver.hpp"
+
+1532360121 c:\users\et137\dropbox\ellataylormsc\codes\templates\q3\abstractodesolver.hpp
+	"ODEInterface.hpp"
+	"Vector.hpp"
+	<iostream>
+
+1534785281 c:\users\et137\dropbox\ellataylormsc\codes\templates\q3\odeinterface.hpp
+	"Vector.hpp"
+
+1445966862 c:\users\et137\dropbox\ellataylormsc\codes\templates\q3\vector.hpp
+	<iostream>
+
+1530794083 source:c:\users\et137\dropbox\ellataylormsc\codes\templates\q3\abstractquadrature.cpp
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+
+1530794256 c:\users\et137\dropbox\ellataylormsc\codes\templates\q3\abstractquadrature.hpp
+	"Vector.hpp"
+
+1534789731 source:c:\users\et137\dropbox\ellataylormsc\codes\templates\q3\driver.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+	"Vector.hpp"
+	"ODEInterface.hpp"
+	"AbstractODESolver.hpp"
+	"RungeKutta4Solver.hpp"
+	"NeuralField1D.hpp"
+	"Trapezium.hpp"
+
+1531920488 c:\users\et137\dropbox\ellataylormsc\codes\templates\q3\rungekutta4solver.hpp
+	"AbstractODESolver.hpp"
+	"Vector.hpp"
+	"ODEInterface.hpp"
+
+1534789709 c:\users\et137\dropbox\ellataylormsc\codes\templates\q3\neuralfield1d.hpp
+	"ODEInterface.hpp"
+	"Vector.hpp"
+
+1530898095 c:\users\et137\dropbox\ellataylormsc\codes\templates\q3\trapezium.hpp
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+
+1531669043 source:c:\users\et137\dropbox\ellataylormsc\codes\templates\q3\odeinterface.cpp
+	"ODEInterface.hpp"
+	"Vector.hpp"
+
+1534788362 source:c:\users\et137\dropbox\ellataylormsc\codes\templates\q3\rungekutta4solver.cpp
+	<iostream>
+	<assert.h>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	"RungeKutta4Solver.hpp"
+
+1530898237 source:c:\users\et137\dropbox\ellataylormsc\codes\templates\q3\trapezium.cpp
+	<cassert>
+	<iostream>
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+	"Trapezium.hpp"
+
+1445966862 source:c:\users\et137\dropbox\ellataylormsc\codes\templates\q3\vector.cpp
+	<cmath>
+	<cassert>
+	<iomanip>
+	"Vector.hpp"
+
+1534789620 source:c:\users\et137\dropbox\ellataylormsc\codes\templates\q3\neuralfield1d.cpp
+	<iostream>
+	<cmath>
+	"NeuralField1D.hpp"
+
+1532996495 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2d\abstractodesolver.cpp
+	<cassert>
+	<fstream>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<string>
+	<cmath>
+	"AbstractODESolver.hpp"
+
+1532360121 c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2d\abstractodesolver.hpp
+	"ODEInterface.hpp"
+	"Vector.hpp"
+	<iostream>
+
+1534785281 c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2d\odeinterface.hpp
+	"Vector.hpp"
+
+1445966862 c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2d\vector.hpp
+	<iostream>
+
+1535287313 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2d\driver.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+	"Vector.hpp"
+	"RungeKutta4Solver.hpp"
+	"NeuralField1D.hpp"
+	"Trapezium.hpp"
+
+1535287313 c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2d\rungekutta4solver.hpp
+	"AbstractODESolver.hpp"
+
+1535287275 c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2d\neuralfield1d.hpp
+	"ODEInterface.hpp"
+
+1534847776 c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2d\trapezium.hpp
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+
+1534847776 c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2d\abstractquadrature.hpp
+	"Vector.hpp"
+
+1535139923 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2d\neuralfield1d.cpp
+	<iostream>
+	<cmath>
+	"NeuralField1D.hpp"
+
+1531669043 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2d\odeinterface.cpp
+	"ODEInterface.hpp"
+	"Vector.hpp"
+
+1445966862 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2d\vector.cpp
+	<cmath>
+	<cassert>
+	<iomanip>
+	"Vector.hpp"
+
+1534847776 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2d\abstractquadrature.cpp
+	<cassert>
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+
+1534790117 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2d\rungekutta4solver.cpp
+	<iostream>
+	<assert.h>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	"RungeKutta4Solver.hpp"
+
+1534855131 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2d\trapezium.cpp
+	<cassert>
+	<iostream>
+	<cmath>
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+	"Trapezium.hpp"
+
+1535305585 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2dtrap\abstractodesolver.cpp
+	<cassert>
+	<fstream>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<string>
+	<cmath>
+	"AbstractODESolver.hpp"
+
+1532360121 c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2dtrap\abstractodesolver.hpp
+	"ODEInterface.hpp"
+	"Vector.hpp"
+	<iostream>
+
+1534785281 c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2dtrap\odeinterface.hpp
+	"Vector.hpp"
+
+1445966862 c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2dtrap\vector.hpp
+	<iostream>
+
+1534847776 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2dtrap\abstractquadrature.cpp
+	<cassert>
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+
+1534847776 c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2dtrap\abstractquadrature.hpp
+	"Vector.hpp"
+
+1535304964 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2dtrap\neuralfield1d.cpp
+	<iostream>
+	<cmath>
+	"NeuralField1D.hpp"
+
+1535287275 c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2dtrap\neuralfield1d.hpp
+	"ODEInterface.hpp"
+
+1531669043 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2dtrap\odeinterface.cpp
+	"ODEInterface.hpp"
+	"Vector.hpp"
+
+1534855131 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2dtrap\trapezium.cpp
+	<cassert>
+	<iostream>
+	<cmath>
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+	"Trapezium.hpp"
+
+1534847776 c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2dtrap\trapezium.hpp
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+
+1445966862 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2dtrap\vector.cpp
+	<cmath>
+	<cassert>
+	<iomanip>
+	"Vector.hpp"
+
+1535305131 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2dtrap\rungekutta4solver.cpp
+	<iostream>
+	<assert.h>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	"RungeKutta4Solver.hpp"
+
+1535287313 c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2dtrap\rungekutta4solver.hpp
+	"AbstractODESolver.hpp"
+
+1535305067 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfield2dtrap\driver.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+	"Vector.hpp"
+	"RungeKutta4Solver.hpp"
+	"NeuralField1D.hpp"
+	"Trapezium.hpp"
+
+1535536803 source:c:\users\et137\onedrive\desktop\neuralfield2dtrap\abstractodesolver.cpp
+	<cassert>
+	<fstream>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<string>
+	<cmath>
+	"AbstractODESolver.hpp"
+
+1535536790 c:\users\et137\onedrive\desktop\neuralfield2dtrap\abstractodesolver.hpp
+	"AbstractODEInterface.hpp"
+	"Vector.hpp"
+	<iostream>
+
+1534785281 c:\users\et137\onedrive\desktop\neuralfield2dtrap\odeinterface.hpp
+	"Vector.hpp"
+
+1445966862 c:\users\et137\onedrive\desktop\neuralfield2dtrap\vector.hpp
+	<iostream>
+
+1534847776 source:c:\users\et137\onedrive\desktop\neuralfield2dtrap\abstractquadrature.cpp
+	<cassert>
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+
+1534847776 c:\users\et137\onedrive\desktop\neuralfield2dtrap\abstractquadrature.hpp
+	"Vector.hpp"
+
+1535314485 source:c:\users\et137\onedrive\desktop\neuralfield2dtrap\driver.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+	<fstream>
+	<iomanip>
+	"Vector.hpp"
+	"RungeKutta4Solver.hpp"
+	"NeuralField.hpp"
+	"Trapezium1D.hpp"
+	"Trapezium2D.hpp"
+
+1535536757 c:\users\et137\onedrive\desktop\neuralfield2dtrap\rungekutta4solver.hpp
+	"AbstractODESolver.hpp"
+	"Vector.hpp"
+	"AbstractODEInterface.hpp"
+
+1535314006 c:\users\et137\onedrive\desktop\neuralfield2dtrap\neuralfield1d.hpp
+	"ODEInterface.hpp"
+
+1534847776 c:\users\et137\onedrive\desktop\neuralfield2dtrap\trapezium.hpp
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+
+1531669043 source:c:\users\et137\onedrive\desktop\neuralfield2dtrap\odeinterface.cpp
+	"ODEInterface.hpp"
+	"Vector.hpp"
+
+1535536765 source:c:\users\et137\onedrive\desktop\neuralfield2dtrap\rungekutta4solver.cpp
+	<iostream>
+	<assert.h>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	"RungeKutta4Solver.hpp"
+
+1534855131 source:c:\users\et137\onedrive\desktop\neuralfield2dtrap\trapezium.cpp
+	<cassert>
+	<iostream>
+	<cmath>
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+	"Trapezium.hpp"
+
+1445966862 source:c:\users\et137\onedrive\desktop\neuralfield2dtrap\vector.cpp
+	<cmath>
+	<cassert>
+	<iomanip>
+	"Vector.hpp"
+
+1535314485 c:\users\et137\onedrive\desktop\neuralfield2dtrap\abstractodeinterface.hpp
+	"Vector.hpp"
+
+1535314486 source:c:\users\et137\onedrive\desktop\neuralfield2dtrap\abstractodeinterface.cpp
+	"AbstractODEInterface.hpp"
+	"Vector.hpp"
+
+1535314486 source:c:\users\et137\onedrive\desktop\neuralfield2dtrap\neuralfield.cpp
+	<iostream>
+	<cmath>
+	"NeuralField.hpp"
+
+1535314486 c:\users\et137\onedrive\desktop\neuralfield2dtrap\neuralfield.hpp
+	"AbstractODEInterface.hpp"
+
+1535314486 source:c:\users\et137\onedrive\desktop\neuralfield2dtrap\trapezium2d.cpp
+	<cassert>
+	<iostream>
+	<cmath>
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+	"Trapezium2D.hpp"
+
+1534847776 c:\users\et137\onedrive\desktop\neuralfield2dtrap\trapezium2d.hpp
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+
+1535314863 source:c:\users\et137\onedrive\desktop\neuralfield2dtrap\trapezium1d.cpp
+	<cassert>
+	<iostream>
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+	"Trapezium1D.hpp"
+
+1535314486 c:\users\et137\onedrive\desktop\neuralfield2dtrap\trapezium1d.hpp
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+
+1535314486 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfieldfinal\abstractodeinterface.cpp
+	"AbstractODEInterface.hpp"
+	"Vector.hpp"
+
+1535314485 c:\users\et137\dropbox\ellataylormsc\codes\neuralfieldfinal\abstractodeinterface.hpp
+	"Vector.hpp"
+
+1445966862 c:\users\et137\dropbox\ellataylormsc\codes\neuralfieldfinal\vector.hpp
+	<iostream>
+
+1535536803 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfieldfinal\abstractodesolver.cpp
+	<cassert>
+	<fstream>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<string>
+	<cmath>
+	"AbstractODESolver.hpp"
+
+1535536790 c:\users\et137\dropbox\ellataylormsc\codes\neuralfieldfinal\abstractodesolver.hpp
+	"AbstractODEInterface.hpp"
+	"Vector.hpp"
+	<iostream>
+
+1534847776 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfieldfinal\abstractquadrature.cpp
+	<cassert>
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+
+1534847776 c:\users\et137\dropbox\ellataylormsc\codes\neuralfieldfinal\abstractquadrature.hpp
+	"Vector.hpp"
+
+1535314486 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfieldfinal\neuralfield.cpp
+	<iostream>
+	<cmath>
+	"NeuralField.hpp"
+
+1535314486 c:\users\et137\dropbox\ellataylormsc\codes\neuralfieldfinal\neuralfield.hpp
+	"AbstractODEInterface.hpp"
+
+1535536765 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfieldfinal\rungekutta4solver.cpp
+	<iostream>
+	<assert.h>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	"RungeKutta4Solver.hpp"
+
+1535536757 c:\users\et137\dropbox\ellataylormsc\codes\neuralfieldfinal\rungekutta4solver.hpp
+	"AbstractODESolver.hpp"
+	"Vector.hpp"
+	"AbstractODEInterface.hpp"
+
+1535314863 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfieldfinal\trapezium1d.cpp
+	<cassert>
+	<iostream>
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+	"Trapezium1D.hpp"
+
+1535314486 c:\users\et137\dropbox\ellataylormsc\codes\neuralfieldfinal\trapezium1d.hpp
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+
+1535314486 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfieldfinal\trapezium2d.cpp
+	<cassert>
+	<iostream>
+	<cmath>
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+	"Trapezium2D.hpp"
+
+1534847776 c:\users\et137\dropbox\ellataylormsc\codes\neuralfieldfinal\trapezium2d.hpp
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+
+1445966862 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfieldfinal\vector.cpp
+	<cmath>
+	<cassert>
+	<iomanip>
+	"Vector.hpp"
+
+1535634441 source:c:\users\et137\dropbox\ellataylormsc\codes\neuralfieldfinal\driver.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+	<fstream>
+	<iomanip>
+	"Vector.hpp"
+	"RungeKutta4Solver.hpp"
+	"NeuralField.hpp"
+	"Trapezium1D.hpp"
+	"Trapezium2D.hpp"
+

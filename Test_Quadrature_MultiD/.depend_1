@@ -1,0 +1,6 @@
+Vector.o: Vector.cpp Vector.hpp
+AbstractQuadrature.o: AbstractQuadrature.cpp Vector.hpp \
+ AbstractQuadrature.hpp
+Trapezium.o: Trapezium.cpp Vector.hpp AbstractQuadrature.hpp \
+ Trapezium.hpp
+Driver.o: Driver.cpp AbstractQuadrature.hpp Vector.hpp Trapezium.hpp

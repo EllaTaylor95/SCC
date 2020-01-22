@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1530899259 source:c:\users\et137\onedrive\desktop\test_quadrature\driver.cpp
+	"AbstractQuadrature.hpp"
+	"Trapezium.hpp"
+	"Vector.hpp"
+	<iostream>
+	<cmath>
+	<iomanip>
+
+1479913131 source:c:\users\et137\onedrive\desktop\test_quadrature\vector.cpp
+	<cmath>
+	<cassert>
+	<iomanip>
+	"Vector.hpp"
+
+1479912277 c:\users\et137\onedrive\desktop\test_quadrature\vector.hpp
+	<iostream>
+
+1530794083 source:c:\users\et137\onedrive\desktop\test_quadrature\abstractquadrature.cpp
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+
+1530794256 c:\users\et137\onedrive\desktop\test_quadrature\abstractquadrature.hpp
+	"Vector.hpp"
+
+1530898237 source:c:\users\et137\onedrive\desktop\test_quadrature\trapezium.cpp
+	<cassert>
+	<iostream>
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+	"Trapezium.hpp"
+
+1530898095 c:\users\et137\onedrive\desktop\test_quadrature\trapezium.hpp
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+
+1530794083 source:c:\users\et137\dropbox\ellataylormsc\codes\test_quadrature\abstractquadrature.cpp
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+
+1479912277 c:\users\et137\dropbox\ellataylormsc\codes\test_quadrature\vector.hpp
+	<iostream>
+
+1530794256 c:\users\et137\dropbox\ellataylormsc\codes\test_quadrature\abstractquadrature.hpp
+	"Vector.hpp"
+
+1530901126 source:c:\users\et137\dropbox\ellataylormsc\codes\test_quadrature\driver.cpp
+	"AbstractQuadrature.hpp"
+	"Trapezium.hpp"
+	"Vector.hpp"
+	<iostream>
+	<cmath>
+	<iomanip>
+	<cassert>
+
+1530898095 c:\users\et137\dropbox\ellataylormsc\codes\test_quadrature\trapezium.hpp
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+
+1530898237 source:c:\users\et137\dropbox\ellataylormsc\codes\test_quadrature\trapezium.cpp
+	<cassert>
+	<iostream>
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+	"Trapezium.hpp"
+
+1479913131 source:c:\users\et137\dropbox\ellataylormsc\codes\test_quadrature\vector.cpp
+	<cmath>
+	<cassert>
+	<iomanip>
+	"Vector.hpp"
+
+1530794083 source:c:\users\et137\onedrive\desktop\msc project\test_quadrature_oned\abstractquadrature.cpp
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+
+1479912277 c:\users\et137\onedrive\desktop\msc project\test_quadrature_oned\vector.hpp
+	<iostream>
+
+1530794256 c:\users\et137\onedrive\desktop\msc project\test_quadrature_oned\abstractquadrature.hpp
+	"Vector.hpp"
+
+1530898237 source:c:\users\et137\onedrive\desktop\msc project\test_quadrature_oned\trapezium.cpp
+	<cassert>
+	<iostream>
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+	"Trapezium.hpp"
+
+1531911179 c:\users\et137\onedrive\desktop\msc project\test_quadrature_oned\trapezium.hpp
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+
+1479913131 source:c:\users\et137\onedrive\desktop\msc project\test_quadrature_oned\vector.cpp
+	<cmath>
+	<cassert>
+	<iomanip>
+	"Vector.hpp"
+
+1531835058 source:c:\users\et137\onedrive\desktop\msc project\test_quadrature_oned\driver.cpp
+	"AbstractQuadrature.hpp"
+	"Trapezium.hpp"
+	"Vector.hpp"
+	<iostream>
+	<cmath>
+	<iomanip>
+	<cassert>
+
+1530794083 source:c:\users\et137\dropbox\ellataylormsc\codes\test_quadrature_oned\abstractquadrature.cpp
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+
+1479912277 c:\users\et137\dropbox\ellataylormsc\codes\test_quadrature_oned\vector.hpp
+	<iostream>
+
+1530794256 c:\users\et137\dropbox\ellataylormsc\codes\test_quadrature_oned\abstractquadrature.hpp
+	"Vector.hpp"
+
+1530898237 source:c:\users\et137\dropbox\ellataylormsc\codes\test_quadrature_oned\trapezium.cpp
+	<cassert>
+	<iostream>
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+	"Trapezium.hpp"
+
+1531911179 c:\users\et137\dropbox\ellataylormsc\codes\test_quadrature_oned\trapezium.hpp
+	"Vector.hpp"
+	"AbstractQuadrature.hpp"
+
+1479913131 source:c:\users\et137\dropbox\ellataylormsc\codes\test_quadrature_oned\vector.cpp
+	<cmath>
+	<cassert>
+	<iomanip>
+	"Vector.hpp"
+
